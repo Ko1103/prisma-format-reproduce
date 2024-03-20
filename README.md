@@ -1,5 +1,7 @@
 # Reproduce the format indent difference
 
+This repository is to reproduce the format indent difference between zed's format on save and `npx prisma format` command.
+
 ## Quick Start
 
 1. Clone this repository
